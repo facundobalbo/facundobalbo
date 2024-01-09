@@ -1,7 +1,11 @@
-### Hi there, i'm Facu 👋
-### I'm a Civil Engineering Student 📚
-### I enjoy coding and learning about new tech 💻
-### I love to paly drums 🥁
+
+## Hello there! I'm Facu 👋
+### I'm a Civil Engineering student 📚
+Beyond my love for structural calculations, I enjoy coding and delving into the latest tech trends 💻
+
+When I'm not immersed in the engineering world, you'll find me playing the drums 🥁 or enjoying a cup of coffee ☕
+
+I'm here to blend my engineering enthusiasm with the creativity of programming, so let's talk about exciting and challenging projects! ✨🚀
 
 <!--
 **bitarwan/bitarwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
