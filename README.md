@@ -29,12 +29,14 @@ En este espacio me gusta combinar lo técnico con lo creativo, ya sea para resol
 ---
 
 ## 🛠 Tecnologías y herramientas que uso
+
 Como apasionado de la computación y la ingeniería, exploro y domino un amplio espectro de herramientas. 
 Desde software geoespacial como QGIS, pasando por modelado y coordinación BIM/CAD con AutoCAD, Revit, Civil 3D, SketchUp, Navisworks y 
 Tekla Structures, hasta aplicaciones específicas de ingeniería para análisis estructural, hidráulico e hídrico como Tekla Structural 
 Designer, Tekla Tedds, HEC-RAS/HMS, MapleFlow y Plaxis. También manejo entornos de programación y automatización como Python, JavaScript, HTML/CSS, 
 AppSheet y VS Code, junto con herramientas de documentación y gestión como LaTeX, Notion y la suite de Google. Mi curiosidad me lleva a experimentar 
 con lenguajes, bibliotecas, extensiones y aplicaciones que optimicen cualquier flujo de trabajo con el que me relacione.
+
 ---
 
 ## 🤝 Conectemos
