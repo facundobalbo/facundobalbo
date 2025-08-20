@@ -52,4 +52,4 @@ Si algo de lo que viste te interesa o querés charlar de ciencia, tecnología o 
 https://facundobalbo.github.io/site/
 
 ### Conoce la pagina de mi empresa (METCON):
-https://facundobalbo.github.io/metcon/
+https://grupometcon.com
