@@ -1,55 +1,25 @@
-# 👋 ¡Hola! Soy Facu
+# Facundo Balbo
 
-Estudio **Ingeniería Civil** en Argentina, me apasionan la **programación**, la **tecnología**, las **ciencias** en general, la **escritura**, la **filosofia** y la **musica**.  
-En este espacio me gusta combinar lo técnico con lo creativo, ya sea para resolver un problema de física, optimizar un cálculo estructural o armar una aplicación que haga la vida un poquito más fácil.
+Ingeniero civil (en formación) · San Luis, Argentina
 
----
+Trabajo en construcción de obra pública y privada. Me interesa la intersección entre ingeniería civil, programación y automatización de procesos. Uso software como herramienta para resolver problemas reales de obra, no como fin en sí mismo.
 
-## 🚀 Qué hago (o intento hacer)
-- Desarrollo en **Python** para problemas de ingenieria, modelado BIM y alguna que otra automatizacion.
-- Programo para la web (solo frontend y muy tranqui) y exploro frameworks nuevos.
-- Me interesa mucho AppSheet y sitios que con herramientas low-code ayudan a crear, ya sea apps o automatizaciones (como n8n)
-- Me gusta trabajar en proyectos donde la ingeniería y la programación se cruzan.
-- Me gusta aprender sobre física, matemáticas y computación por gusto.
+## Qué hago
 
----
+- **Ingeniería civil** — Dirección de obra, cálculo estructural, modelado BIM, diseño hidráulico.
+- **Programación aplicada** — Python para cálculos, automatizaciones y herramientas internas. JavaScript/HTML para interfaces y dashboards.
+- **Automatización** — Sistemas de gestión de obra con Google Sheets, Apps Script y herramientas low-code (AppSheet, n8n).
 
-## 🌱 Ahora mismo estoy...
-- Terminando mi carrera y metiendo mano en todo lo que puedo aprender.
-- Creando proyectos que mezclan **ingeniería**, **ciencia** y **software**.
-- Intentando no romper nada… aunque a veces es parte del proceso 😅.
+## Stack
 
----
+**Ingeniería:** AutoCAD · Revit · Civil 3D · Tekla Structures · Tekla Structural Designer · Navisworks · SketchUp · HEC-RAS/HMS · Plaxis · QGIS · MapleFlow
 
-## 📚 Cosas que me motivan
-- Resolver problemas complejos de manera simple.
-- Aprender cosas nuevas (o al menos intentarlo).
-- Combinar disciplinas distintas para crear soluciones inesperadas.
+**Desarrollo:** Python · JavaScript · HTML/CSS · Google Apps Script · AppSheet
 
----
+**Herramientas:** VS Code · LaTeX · Notion · Git
 
-## 🛠 Tecnologías y herramientas que uso
+## Links
 
-Como apasionado de la computación y la ingeniería, exploro y domino un amplio espectro de herramientas. 
-Desde software geoespacial como QGIS, pasando por modelado y coordinación BIM/CAD con AutoCAD, Revit, Civil 3D, SketchUp, Navisworks y 
-Tekla Structures, hasta aplicaciones específicas de ingeniería para análisis estructural, hidráulico e hídrico como Tekla Structural 
-Designer, Tekla Tedds, HEC-RAS/HMS, MapleFlow y Plaxis. También manejo entornos de programación y automatización como Python, JavaScript, HTML/CSS, 
-AppSheet y VS Code, junto con herramientas de documentación y gestión como LaTeX, Notion y la suite de Google. Mi curiosidad me lleva a experimentar 
-con lenguajes, bibliotecas, extensiones y aplicaciones que optimicen cualquier flujo de trabajo con el que me relacione.
-
----
-
-## 🤝 Conectemos
-Si algo de lo que viste te interesa o querés charlar de ciencia, tecnología o ingeniería,  
-¡me podés escribir sin problema!  
-
-📫 **facundobalbo.ingcivil@gmail.com** 
-
----
-> “La curiosidad no mató al gato, le enseñó a programar.”
-
-### Conoce mi pagina personal:
-https://facundobalbo.github.io/site/
-
-### Conoce la pagina de mi empresa (METCON):
-https://grupometcon.com
+- [Sitio personal](https://facundobalbo.github.io/site/)
+- [METCON S.A.S](https://grupometcon.com) — Empresa constructora que cofundé
+- facundobalbo.ingcivil@gmail.com
