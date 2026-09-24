@@ -1,7 +1,7 @@
 # Facundo Balbo
 
 Construcción + software · San Luis, Argentina
-Cofundador de [Grupo Metcon](link) · Jefe de obra y Calidad del Hormigón en Metrovial SRL
+Cofundador de [Grupo Metcon](www.grupometcon.com) · Jefe de obra y Calidad del Hormigón en Metrovial SRL
 
 Desarrollo las herramientas con las que gestionamos nuestras obras.
 
